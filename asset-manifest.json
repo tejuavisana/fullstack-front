@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tejuavisana/fullstack-front/static/css/main.9a5c6096.css",
+    "main.js": "/tejuavisana/fullstack-front/static/js/main.c4403db8.js",
+    "static/js/453.93b740cb.chunk.js": "/tejuavisana/fullstack-front/static/js/453.93b740cb.chunk.js",
+    "index.html": "/tejuavisana/fullstack-front/index.html",
+    "main.9a5c6096.css.map": "/tejuavisana/fullstack-front/static/css/main.9a5c6096.css.map",
+    "main.c4403db8.js.map": "/tejuavisana/fullstack-front/static/js/main.c4403db8.js.map",
+    "453.93b740cb.chunk.js.map": "/tejuavisana/fullstack-front/static/js/453.93b740cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a5c6096.css",
+    "static/js/main.c4403db8.js"
+  ]
+}
